@@ -5,8 +5,10 @@
         "propiedades": "4 patas"
     },
     {
-        "mesa": 1,
-        "color":"azul",
-        "propiedades": "1 pata"
+
+        "mesa": 6,
+        "color":"rojo",
+        "propiedades": "7 patas"
+
     }
 ]

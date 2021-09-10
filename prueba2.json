@@ -3,5 +3,10 @@
         "mesa": 1,
         "color":"verde",
         "propiedades": "4 patas"
+    },
+    {
+        "mesa": 1,
+        "color":"azul",
+        "propiedades": "1 pata"
     }
 ]
